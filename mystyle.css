@@ -1,0 +1,21 @@
+body {
+	background: #DAD7C7;
+}
+
+#searchArea{
+	margin: 0 auto;
+	text-align: center;
+	background: #BF996B;
+	padding: 10px;
+	width: 30%;
+	-webkit-border-radius: 10px 10px 0 0;
+	-moz-border-radius: 10px 10px 0 0;
+	border-radius: 10px 10px 0 0;
+}
+
+#searchArea label{
+	font:bold 1.3em Arial;
+	text-transform: uppercase;
+	padding-bottom: 5px;
+	color: #A61C1C;
+}
