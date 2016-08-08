@@ -1,0 +1,20 @@
+{
+  "name": "Search App Lynda",
+  "authors": [
+    "octavian morcov <octavian.morcov@sap.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
